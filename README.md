@@ -1,4 +1,4 @@
-# 📝 ZipTrrip Todo Manager
+# 📝 Todo Manager
 
 A modern full-stack Todo Management application built using **React** and **Node.js (Express)** as part of the ZipTrrip selection assignment.
 
